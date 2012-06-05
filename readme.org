@@ -1,5 +1,5 @@
-* Open Metadata Converters
-The Open Metadata Converters project provides open source utilities that convert among various metadata formats.
+* Metadata Converters
+The Metadata Converters project provides open source utilities that convert among various metadata formats.
 
 The first utility converts [[http://www.blaise.com/][Blaise(r)]] source code to [[http://www.colectica.com/ddi][DDI 3]].
 ** Blaise to DDI Converter
@@ -20,7 +20,7 @@ The Blaise to DDI Converter creates the following DDI 3 metadata from a Blaise d
 BlaiseToDDI.exe inputFile.bla outputFile.xml
 #+END_QUOTE
 ** License
-The Open Metadata Converters may be used under the terms of the Lesser GNU Public License (LGPL).
+The Metadata Converters may be used under the terms of the Lesser GNU Public License (LGPL).
 ** Support, Enhancements, and Integration
 We are happy to provide professional support, enhance the converters to work with your data, or help you integrate the converters into your systems. Please [[http://www.colectica.com/contact][contact us]] and let us know how we can help.
 ** Additional Converters
