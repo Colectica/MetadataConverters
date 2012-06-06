@@ -1,7 +1,7 @@
 * Metadata Converters
 The Metadata Converters project provides open source utilities that convert among various metadata formats.
 
-The first utility converts [[http://www.blaise.com/][Blaise(r)]] source code to [[http://www.colectica.com/ddi][DDI 3]].
+The first utility converts [[http://www.blaise.com/][Blaise(r)]] source code to [[http://www.colectica.com/ddi][DDI 3]]. Thank you to the National Institutes of Health and the Canada Research Data Centre Network for their support in developing this utility.
 ** Blaise to DDI Converter
 The Blaise to DDI Converter creates DDI 3 metadata from Blaise source code.
 *** Features
